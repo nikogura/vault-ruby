@@ -23,6 +23,7 @@ module Vault
         :ssl_cert_store,
         :ssl_verify,
         :ssl_timeout,
+        :ssl_role,
         :timeout,
       ]
     end
